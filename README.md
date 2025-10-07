@@ -1,4 +1,4 @@
-#  Supply Chain Demand Forecasting & Inventory Optimization
+#  OptiChain: AI-Powered Supply Chain Forecasting System
 
 **Domain:** Retail & Supply Chain Analytics | **Tech Stack:** Python, XGBoost, Power BI, Pandas, NumPy
 
