@@ -3,6 +3,7 @@
 **Domain:** Retail & Supply Chain Analytics | **Tech Stack:** Python, XGBoost, Power BI, Pandas, NumPy
 
 ---
+<img width="832" height="254" alt="36b88775-5862-462c-a119-81388cb3ecc8" src="https://github.com/user-attachments/assets/609908a8-1d92-437f-b30e-1bf85e228599" />
 
 ##  Project Overview
 
